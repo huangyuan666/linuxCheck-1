@@ -491,11 +491,6 @@ if __name__ == '__main__':
 
     # ssha(hosts)
 
-    # ip = '47.107.38.217'
-
-    # user = 'root'
-    # pwd = 'WT@201902'
-
     port = '22'
 
     if "txt" in hosts:
